@@ -1,0 +1,9 @@
+.bash_history
+.bashrc
+.profile
+.wget-hsts
+.env*
+public/
+*.log
+*.tmp
+node_modules/
